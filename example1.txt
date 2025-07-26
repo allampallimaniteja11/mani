@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 message1
+=======
+example1
+example2
+example3
+example4
+example5
+
+>>>>>>> dc5e21e781acd6f8c66cda0389f2ea2d99d4fa56
